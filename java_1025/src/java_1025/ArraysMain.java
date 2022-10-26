@@ -2,7 +2,7 @@ package java_1025;
 import java.util.Arrays;
 
 public class ArraysMain {
-
+	//배열을 가지고 작업 
 	public static void main(String[] args) {
 		//문자열 배열 생성
 		String [] singers = {"장원영", "카리나", "지젤", "민지", "태연", "아이유", "수지"};
