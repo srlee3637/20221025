@@ -2,13 +2,14 @@ package naver.srlee3637.map;
 
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Set;
 
 public class Main {
 
 	public static void main(String[] args) {
 		//HashMap 인스턴스 생성
-		HashMap<String, Object> map = new HashMap<>();
+		Map<String, Object> map = new HashMap<>();
 		
 		//Map에 데이터 저장 - put
 		map.put("num", 1);
